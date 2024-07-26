@@ -10,7 +10,7 @@
 
 .container_header {
     border: 5px solid red;
-    background-color: #b8860b;
+    background-color: #0b9eb8;
     border-radius: 25px solid pink;
     margin-bottom: 10px;
     display: flex;
@@ -52,7 +52,7 @@
 }
 
 h2 {
-    color: #fffb00;
+    color: #000;
     font-size: 50px;
     margin: 10px;
 }
